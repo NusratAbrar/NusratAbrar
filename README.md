@@ -62,7 +62,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NusratAbrar">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/NusratAbrar?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NusratAbrar&label=Profile%20views&color=0e75b6&style=flat" alt="anikcb" />
+<a href="https://github.com/NusratAbrar?tab=followers"><img src="https://img.shields.io/github/followers/NusratAbrar?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ </p>
