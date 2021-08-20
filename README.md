@@ -1,5 +1,5 @@
 <p align="center" >
-<a href="#"><img width="46%" height="auto" src="https://photo-cdn2.icons8.com/5B-Vc8lqFHAU477wlwkuKGRGqcu2gQNP9pTm2diss-w/rs:fit:1606:1072/Z3M6Ly9tb29zZTIv/YXNzZXRzL3NhdGEv/b3JpZ2luYWwvODA0/L2ZiNGEwNTMwLWYz/MjUtNDQ0ZC1iMGY2/LWIyY2JkMzEyMjU1/Mi5qcGc.jpg" height="95px"/></a>
+<a href="#"><img width="40%" height="400px" src="https://user-images.githubusercontent.com/87292654/130192571-f305cce4-7dd7-4dc3-bebf-c68c7f9c9c9e.png" /></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nusrat</h1>
 <h3 align="center">A student and programmer from Bangladesh</h3>
